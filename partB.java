@@ -20,11 +20,12 @@ public class partB {
             option = in.nextInt() ;
 
             if (option == 1) {
-                partC.findMinMax(array) ;
+                partC.findMin(array);
+                partC.findMax(array);
             }
 
             else if (option == 2) {
-                partd.averageDifferences(array) ;
+                partD.averageDifferences(array) ;
             }
 
             else if (option == 3) {
