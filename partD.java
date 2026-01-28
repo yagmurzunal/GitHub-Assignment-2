@@ -18,6 +18,7 @@ public class partD {
             System.out.print(newArray[j] + " ");
         }
         System.out.println();
+        
 
 
     }
